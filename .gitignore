@@ -1,5 +1,14 @@
 .venv/
 __pycache__/
 .DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# 원본 문서. 저작권 때문에 저장소에 넣지 않습니다
 data/raw/
 data/download_report.json
+
+# 문서 본문이 들어 있어 같은 이유로 넣지 않습니다
+data/chunks/
+data/ocr_cache/
